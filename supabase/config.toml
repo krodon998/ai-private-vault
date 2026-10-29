@@ -1,0 +1,5 @@
+project_id = "ai-private-vault"
+
+[functions.private-vault]
+verify_jwt = false
+
