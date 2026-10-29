@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+.dev.vars
+.dev.vars.*
+private_key.pem
+*.private.pem
+test-note.txt
+envelope.json
+request.json
+__pycache__/
+*.py[cod]
+.supabase/
+
